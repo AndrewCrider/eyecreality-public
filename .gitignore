@@ -1,4 +1,5 @@
-config_var_master.py
+config_var.py
+.DS_Store
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
