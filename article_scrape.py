@@ -11,10 +11,22 @@ def pdf2HTML(fileName, sourceHTML):
     except:
         print("an error with " + fileName)
 
+def otherScrapingOptions(fileName, sourceHTML):
+    #xhtml2pdf
+    """ pdfFile = open(pdfName, "w+b")
+    pisa_create = pisa.CreatePDF(str(secondLevel[0]), 
+                    dest=pdfName)
+    pdfFile.close()  
+ """    
+    #WeasyPrint
+    #HTML(filename=fileName).write_pdf(pdfName)
+
 
 urls2 = []
 cnnUrls = ['https://www.cnn.com/2021/04/15/us/derek-chauvin-trial-george-floyd-day-14/index.html']
 voxUrls = ['https://www.vox.com/22385716/russia-sanctions-biden-cyber-ukraine']
+
+#Urllib connection
 req = urllib3.PoolManager(ca_certs=certifi.where())
 
 
@@ -30,7 +42,7 @@ for u in urls2:
     print(fileName + " " + pdfName)
     pdf2HTML(pdfName, str(secondLevel[0]))
 
-    
+cnnUrls = ['https://www.cnn.com/2021/04/15/us/derek-chauvin-trial-george-floyd-day-14/index.html']   
 for c in cnnUrls:
     fileName = c.split('/')[-2]+".html"
     pdfName = c.split('/')[-2] +".pdf"
@@ -48,6 +60,8 @@ for c in cnnUrls:
     htmlSource = htmlSource +"</html>"
     pdf2HTML(pdfName, htmlSource)
 
+voxUrls = ['https://www.vox.com/22385716/russia-sanctions-biden-cyber-ukraine']
+
 for v in voxUrls:
     fileName = v.split('/')[-1] + ".html"
     pdfName = v.split('/')[-1]  + ".pdf"
@@ -64,15 +78,10 @@ for v in voxUrls:
         
     htmlSource = htmlSource +"</html>"
     pdf2HTML(pdfName, htmlSource)
-    
-    #xhtml2pdf
-"""     pdfFile = open(pdfName, "w+b")
-    pisa_create = pisa.CreatePDF(str(secondLevel[0]), 
-                    dest=pdfName)
-    pdfFile.close()  """
-    
-    #WeasyPrint
-    #HTML(filename=fileName).write_pdf(pdfName)
+
+
+
+
 
     
     
