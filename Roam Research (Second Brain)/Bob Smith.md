@@ -1,0 +1,7 @@
+- email::  bob.smith@company3.com
+- phone::
+- Company::  [[Company 3]]
+- role::
+- location::  [[Atlanta, GA]]
+- How we met::  Worked at [[Client X]] with him while we were both at [[Company 2]]
+- Tags:: 

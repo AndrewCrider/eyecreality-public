@@ -1,0 +1,15 @@
+- #read [Evidence-Based Strategies to Better Remember What You Learn](https://medium.com/the-ascent/evidence-based-strategies-to-better-remember-what-you-learn-c7e6d8136d3d) 
+    - author:: [[Eva Keiffenheim]]
+    - **tags:** [[Roam Research]] | [[Education]] | [[Second Brain]]
+    - **thoughts:**
+        - __How__ __we learn changes our brain’s neural network__
+            - #surface Refered to as neuroplasticity
+                - Capacity of neurons to "re-wire" in response to new information, sensory stimulation, development, damage, etc.
+        - ### Suggested Methods
+          - <<Content Here>>
+            
+        - [[Second Brain]] | Soo ... here's what you need to do to learn 
+            - Build a knowledge base where you take notes
+            - Create a programatic method to force yourself to recall 
+            - Take the stuff that is important and then do a regular retrospective to build new material (which will enhance the learning)
+            - Finally do regular testing to ensure that it sticks
