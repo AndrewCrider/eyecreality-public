@@ -116,3 +116,4 @@ dmypy.json
 .pyre/
 Roam Research (Second Brain)/roamImport/
 Roam Research (Second Brain)/huluoutput.csv
+config.py

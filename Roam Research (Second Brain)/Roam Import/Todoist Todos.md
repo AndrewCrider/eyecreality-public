@@ -1,0 +1,35 @@
+- [[May 5th, 2021]]
+  - [[Work]]
+    - {{DONE}} review stuff for Client 1
+    - {{DONE}} clear up emails 
+  - [[Personal]]
+    - {{DONE}} send reminder to cousins  
+    - {{DONE}} [15 New Books to Watch For in May](https://www.nytimes.com/2021/04/28/books/may-2021-new-books.html) 
+  - [[Financial]]
+    - {{DONE}} reach out to zipcar about missed rental 
+    - {{DONE}} settle paycheck 
+- [[May 6th, 2021]]
+  - [[Work]]
+    - {{DONE}} put together stuff for all hands call … 
+    - {{DONE}} clear up emails 
+  - [[eyecreality]]
+    - {{DONE}} [Free Text-To-Speech for US English language and MP3 Download | ttsMP3.com](https://ttsmp3.com/) 
+  - [[Financial]]
+    - {{DONE}} donate to something 
+  - [[Side Project]]
+    - {{DONE}} follow up with Client 2
+- [[May 7th, 2021]]
+  - [[Work]]
+    - {{DONE}} finalize Client 3
+    - {{DONE}} build slide ware for Partner 1
+    - {{DONE}} timesheets 
+    - {{DONE}} clear up emails 
+  - [[eyecreality]]
+    - {{DONE}} call legal zoom 
+  - [[Personal]]
+    - {{DONE}} check humidofier 
+  - [[roaminbox]]
+    - {{DONE}} https://link.medium.com/dQc515IMAfb flutter push notifications 
+- [[May 9th, 2021]]
+  - [[eyecreality]]
+    - {{DONE}} write for 30 minutes 
