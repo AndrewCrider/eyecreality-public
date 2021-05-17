@@ -10,7 +10,6 @@ outputDirectory = "Roam Research (Second Brain)/Roam Import/"
 
 projects = []
 dates = []
-weeks_project =[]
 project_counts = []
 all_activity = []
 complete = []
@@ -18,7 +17,7 @@ complete = []
 
 api.sync()
 
-#Creating a Callable Function for other services
+#Creating a Callable Function to import Tasks
 def contentToRoam(data):
     export = ""
     for d in data:
@@ -57,22 +56,20 @@ for p in api.state['projects']:
     projects.append(proj)
 
 
-
+#Get All Activity
 for x in outputJSON["events"]:
-    if x['parent_project_id'] not in weeks_project:
-        weeks_project.append(x['parent_project_id'])
-          
+            
     all_activity.append({"project": x['parent_project_id'], "event_type": x['event_type'], "id": x['object_id'], "eventDate": x['event_date'][0:10], "task": x['extra_data']['content'] })
     
 
 
-
+#Build Content for Graphs and Exports
 for ip in projects:
     added_count = 0
     updated_count = 0
     completed_count = 0
     updated_items = []
-    roamImport = {}
+    
     for aa in all_activity:
         if aa["project"] == ip["id"]:
             if aa["event_type"] == "added":
@@ -87,18 +84,17 @@ for ip in projects:
                 complete.append(event)
         
         
-    
+    #Only Adding Projects that have Item Counts
     if added_count != 0 and updated_count != 0 and completed_count != 0:
         project_counts.append({"project": ip["name"], "added_items": added_count, "updated_count": updated_count, "completed_count": completed_count, "updated_items": updated_items })
     
 
-
+#MatPlotLib Creation
 barChartAxes =[]
 barChartCompletedValues = []
 barChartUniqueUpdatedCount = []
 dateAxes = []
 dateCompletedValues=[]
-
 
 for pp in project_counts:
     barChartAxes.append(pp["project"])
@@ -116,6 +112,7 @@ ax.legend
 plt.savefig('Roam Research (Second Brain)/Roam Import/todoist_barchart.png')
 
 
+#Building Content for Roam
 todoExport = []
 for d in sorted(set(dates)):
     print(d)
@@ -128,7 +125,6 @@ for d in sorted(set(dates)):
         for c in complete:
             
             if  p["id"] == c["project"] and c["date"] == d:
-                #print("date for match is " + c["date"])
                 taskList.append(c["name"])
         
         if len(taskList) > 0:
@@ -139,5 +135,5 @@ for d in sorted(set(dates)):
 contentToRoam(todoExport)
 
 
-#print(events)
+
 
