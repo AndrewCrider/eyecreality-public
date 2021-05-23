@@ -58,6 +58,7 @@ for p in api.state['projects']:
 
 #Get All Activity
 for x in outputJSON["events"]:
+    print(x)
             
     all_activity.append({"project": x['parent_project_id'], "event_type": x['event_type'], "id": x['object_id'], "eventDate": x['event_date'][0:10], "task": x['extra_data']['content'] })
     

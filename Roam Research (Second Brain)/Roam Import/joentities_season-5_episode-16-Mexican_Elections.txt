@@ -1,0 +1,80 @@
+ENTITY                                             TYPE      
+Norwegian Directorate of Health                    ORG       
+Land of Chlamydia                                  GEO       
+Stuart Varney                                      NPH       
+John Oliver                                        NPH       
+Norway                                             GEO       
+Thailand                                           GEO       
+United States of America                           GEO       
+European Union                                     ORG       
+Las Vegas                                          GEO       
+Tampa                                              GEO       
+FOX                                                MMD       
+7-Eleven                                           COM       
+Tiffany & Co.                                      COM       
+Donald Trump                                       NPH       
+Time                                               MMD       
+Enrique Pena                                       NPH       
+Enrique Pena Nieto                                 NPH       
+Mexico                                             GEO       
+Mexico City                                        GEO       
+Cancun                                             GEO       
+Kansas City                                        GEO       
+Partido Revolucionario Institucional               ORG       
+Donald Trump                                       NPH       
+Santa Claus                                        NPH       
+El Bronco                                          ORG       
+Jaime Rodríguez                                    NPH       
+José Antonio Meade                                 NPH       
+Javier Duarte                                      NPH       
+Guillermo del Toro                                 NPH       
+Pena Nieto                                         NPH       
+Mexico                                             GEO       
+Mexico City                                        GEO       
+United States of America                           GEO       
+Partido Revolucionario Institucional               ORG       
+Veracruz                                           GEO       
+Iguala de la Independencia                         GEO       
+Social Encounter Party                             ORG       
+Christopher Robin                                  NPH       
+Bernie Sanders                                     NPH       
+Al Gore                                            NPH       
+Andrés Manuel López Obrador                        NPH       
+Muy                                                ORG       
+Britney Spears                                     NPH       
+Ricardo Anaya                                      NPH       
+DOJ                                                ORG       
+Mexico                                             GEO       
+Mexico City                                        GEO       
+United States of America                           GEO       
+Washington, D.C.                                   GEO       
+Santa Claus                                        WRK       
+Mahatma Gandhi                                     NPH       
+Adolf Hitler                                       NPH       
+Goldman Sachs                                      COM       
+Donald Trump                                       NPH       
+John Oliver                                        NPH       
+Mem'ries                                           WRK       
+Ginger Ed Man                                      NPH       
+Joe Manganiello                                    NPH       
+Geno Vento                                         NPH       
+Simon Pegg                                         NPH       
+Simon Biles                                        NPH       
+Rachel Fong                                        NPH       
+Tyler Posey                                        NPH       
+Tyra Banks                                         NPH       
+Kathie Lee                                         NPH       
+Santa Claus                                        NPH       
+Andy García                                        NPH       
+Sonia Villarreal                                   NPH       
+Andrés Manuel                                      NPH       
+AMLO                                               ORG       
+Gospel According to John                           WRK       
+Mexico                                             GEO       
+Iraq                                               GEO       
+Syria                                              GEO       
+Franklin D. Roosevelt                              NPH       
+North Pole                                         GEA       
+New York                                           GEO       
+Sinaloa                                            GEO       
+Piedras Negras                                     GEO       

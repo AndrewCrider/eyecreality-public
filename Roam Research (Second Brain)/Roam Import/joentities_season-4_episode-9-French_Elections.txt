@@ -1,0 +1,73 @@
+ENTITY                                             TYPE      
+Export-Import                                      COM       
+Janet Yellen                                       NPH       
+Dollywood                                          GEO       
+Holocaust center                                   ORG       
+Yes                                                ORG       
+Sean Spicer                                        NPH       
+John Oliver                                        NPH       
+White House                                        ORG       
+North Atlantic Treaty Organization                 ORG       
+Federal Reserve                                    COM       
+China                                              GEO       
+Mideast                                            GEA       
+Egypt                                              GEO       
+Iraq                                               GEO       
+Syria                                              GEO       
+Adolf Hitler                                       NPH       
+United Airlines                                    COM       
+Donald Trump                                       NPH       
+East Afghanistan                                   GEO       
+Eyewitness News                                    MMD       
+Geraldo Rivera                                     NPH       
+FOX News                                           MMD       
+Fox & Friends                                      WRK       
+Holocaust center                                   ORG       
+All Bombs                                          NPH       
+Xi Jinping                                         NPH       
+Brian Dennehey                                     NPH       
+China                                              GEO       
+North Korea                                        GEO       
+United States of America                           GEO       
+Lincoln Park                                       GEO       
+Northland                                          GEO       
+Donald Trump                                       NPH       
+Penelope Cruz                                      NPH       
+Francois Fillon                                    NPH       
+Jean Lasalle                                       NPH       
+Larry Skywalker                                    NPH       
+Jacques Cheminade                                  NPH       
+Manuel Valls                                       NPH       
+Kevin Federline                                    NPH       
+Francois Hollande                                  NPH       
+England                                            GEO       
+France                                             GEO       
+Mars                                               GEX       
+Babar                                              WRK       
+Euroland                                           GEA       
+European Union                                     ORG       
+Strasbourg                                         GEO       
+Han Solo                                           WRK       
+Star Wars                                          WRK       
+Jean-Marie Le Pen                                  NPH       
+Ashton Kutcher                                     NPH       
+direct-to-DVD                                      WRK       
+Emmanuel Macron                                    NPH       
+Jean-Luc Melenchon                                 NPH       
+France                                             GEO       
+Paris                                              GEO       
+Lyon                                               GEO       
+Europe                                             GEA       
+European Union                                     ORG       
+National Front                                     ORG       
+Amiens                                             GEO       
+John Oliver                                        NPH       
+Larry Skywalker                                    NPH       
+Amelie                                             WRK       
+Guy Ritchie                                        NPH       
+Michael Caine                                      NPH       
+Donald Le Pen                                      NPH       
+United Kingdom                                     GEO       
+France                                             GEO       
+United States of America                           GEO       
+Donald Trump                                       NPH       

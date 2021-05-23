@@ -1,0 +1,71 @@
+ENTITY                                             TYPE      
+George Soros                                       NPH       
+Jeff Flake                                         NPH       
+Chuck Grassley                                     NPH       
+Mitch McConnell                                    NPH       
+Orrin Hatch                                        NPH       
+Stevens                                            ORG       
+Blasey Ford                                        NPH       
+Christine Ford                                     NPH       
+Kennedy Blows His Top                              NPH       
+Susan Collins                                      NPH       
+Brett Kavanaugh                                    NPH       
+John Oliver                                        NPH       
+DOJ                                                ORG       
+Federal Bureau of Investigation                    ORG       
+Democrats                                          ORG       
+Republicans                                        ORG       
+United States of America                           GEO       
+Utah                                               GEO       
+The New York Times                                 MMD       
+Wall Street Journal                                MMD       
+Barack Obama                                       NPH       
+Donald Trump                                       NPH       
+Golfball                                           PRD       
+Al Franken                                         NPH       
+Judicial Crisis Network                            ORG       
+Brett Kavanaugh                                    NPH       
+U.S. Senate                                        ORG       
+Republicans                                        ORG       
+Brazil                                             GEO       
+Rio de Janeiro                                     GEO       
+United States of America                           GEO       
+Minnesota                                          GEO       
+Google Inc.                                        COM       
+Donald Trump                                       NPH       
+Luiz Inácio Lula Da Silva                          GEA       
+Spanx                                              PRD       
+Chef's Table                                       WRK       
+Kevin James                                        NPH       
+Netflix                                            PRD       
+Brazil                                             GEO       
+Rio de Janeiro                                     GEO       
+United Kingdom                                     GEO       
+United States of America                           GEO       
+Europe                                             GEA       
+Richard Nixon                                      NPH       
+Osama bin Laden                                    NPH       
+Captain America                                    WRK       
+Netflix                                            COM       
+Santa Claus                                        NPH       
+Hugh Hefner                                        NPH       
+Brazilian Congress                                 ORG       
+Michael Scott                                      NPH       
+Jair Bolsonaro                                     NPH       
+Lucille Ball                                       NPH       
+Gary Busey                                         NPH       
+Fernando Haddad                                    NPH       
+Brazil                                             GEO       
+São Paulo                                          GEO       
+United States of America                           GEO       
+Workers' Party                                     ORG       
+Donald Trump                                       NPH       
+John Oliver                                        NPH       
+Sean Hannity                                       NPH       
+Gary Busey                                         NPH       
+Ruth Bader Ginsburg                                NPH       
+Ford Focus                                         PRD       
+Geraldo Wolverine                                  NPH       
+Ellen Page                                         NPH       
+Marlon Bundo Punches                               NPH       
+Brazil                                             GEO       

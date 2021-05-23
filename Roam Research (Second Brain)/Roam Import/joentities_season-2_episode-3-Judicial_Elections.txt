@@ -1,0 +1,70 @@
+ENTITY                                             TYPE      
+John Oliver                                        NPH       
+Labour Party                                       ORG       
+Armageddon                                         GEA       
+Greece                                             GEO       
+United Kingdom                                     GEO       
+London                                             GEO       
+Egypt                                              GEO       
+Cairo                                              GEO       
+Russia                                             GEO       
+Ukraine                                            GEO       
+Texas                                              GEO       
+Europe                                             GEA       
+Ulysses                                            WRK       
+Euroland                                           GEA       
+European Union                                     ORG       
+Ithaca                                             GEO       
+Conservative Party                                 ORG       
+Vladimir Putin                                     NPH       
+Supreme                                            GEO       
+Roy Moore                                          NPH       
+Harriet Harman                                     NPH       
+Labour Party                                       ORG       
+Bolivia                                            GEO       
+United Kingdom                                     GEO       
+United States of America                           GEO       
+Alabama                                            GEO       
+Supreme Court of the United States                 ORG       
+Mattel                                             COM       
+Jules Olsman                                       NPH       
+Antonin Scalia                                     NPH       
+Thomas Kilbride                                    NPH       
+Michael Oster                                      NPH       
+Rapides Parish                                     GEO       
+Greg Beard                                         NPH       
+Paul Newby                                         NPH       
+Kelly Loughry                                      NPH       
+Justus Loughry                                     NPH       
+Allen Loughry                                      NPH       
+Blake Lively                                       NPH       
+Los Angeles                                        GEO       
+Chad Myers                                         NPH       
+Koch                                               PRD       
+Paul Pfeifer                                       NPH       
+Nicholas Cage                                      NPH       
+Terrence O'Donnell                                 NPH       
+Ohio Supreme Court                                 ORG       
+Willie Singletary                                  NPH       
+Philadelphia Traffic Court                         ORG       
+Jim Sharp                                          NPH       
+Illinois                                           GEO       
+North Carolina                                     GEO       
+Ohio                                               GEO       
+Texas                                              GEO       
+Cable News Network                                 MMD       
+Philadelphia                                       GEO       
+John Deere                                         COM       
+Kowloon Walled City Park                           GEA       
+Lee Sing-Man                                       NPH       
+VMAs                                               ORG       
+Stevie Nicks                                       NPH       
+Ryan Seacrest                                      NPH       
+Chad Myers                                         NPH       
+communist party                                    ORG       
+China                                              GEO       
+Florida                                            GEO       
+Detroit                                            GEO       
+New York                                           GEO       
+Smithsonian Institution                            ORG       
+Hong Kong                                          GEO       

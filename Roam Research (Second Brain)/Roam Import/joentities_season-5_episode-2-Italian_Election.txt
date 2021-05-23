@@ -1,0 +1,55 @@
+ENTITY                                             TYPE      
+Justin Trudeau                                     NPH       
+Bob Murray                                         NPH       
+John Oliver                                        NPH       
+Canada                                             GEO       
+India                                              GEO       
+National Education Association                     ORG       
+National Rifle Association                         ORG       
+Donald Trump                                       NPH       
+Rachael Ray                                        NPH       
+Donald Jr.                                         NPH       
+Trump Organization                                 ORG       
+CNBC                                               ORG       
+Ed Sullivan                                        NPH       
+The Darjeeling Limited                             COM       
+Tim Gunn                                           NPH       
+India                                              GEO       
+United States of America                           GEO       
+Washington Post                                    MMD       
+Toronto Raptors                                    ORG       
+Beatles                                            ORG       
+Donald Trump                                       NPH       
+Frankie Muniz                                      NPH       
+Luigi Di Maio                                      NPH       
+Beppe Grillo                                       NPH       
+Five Star                                          GEX       
+Matteo Renzi                                       NPH       
+Patrizio Nissirio                                  NPH       
+Greece                                             GEO       
+Italy                                              GEO       
+Europe                                             GEA       
+Antarctica                                         GEA       
+Adolf Hitler                                       NPH       
+Benito Mussolini                                   NPH       
+Pope Francis                                       NPH       
+Five Star Movement                                 ORG       
+Silvio Berlusconi                                  NPH       
+Mary Poppins                                       NPH       
+Matteo Salvini                                     NPH       
+Di Maio                                            ORG       
+Italy                                              GEO       
+Mediterranean Sea                                  GEA       
+The New York Times                                 MMD       
+Donald Trump                                       NPH       
+Matteo Salvini                                     NPH       
+Andy Garcia                                        NPH       
+Angela Merkel                                      NPH       
+Bernie Madoff                                      NPH       
+Italy                                              GEO       
+Milan                                              ORG       
+Barack Obama                                       NPH       
+Vladimir Putin                                     NPH       
+John Oliver                                        NPH       
+Mount Olivo                                        GEA       
+Italy                                              GEO       

@@ -1,35 +1,46 @@
-- [[May 5th, 2021]]
+- [[May 11th, 2021]]
   - [[Work]]
-    - {{DONE}} review stuff for Client 1
-    - {{DONE}} clear up emails 
-  - [[Personal]]
-    - {{DONE}} send reminder to cousins  
-    - {{DONE}} [15 New Books to Watch For in May](https://www.nytimes.com/2021/04/28/books/may-2021-new-books.html) 
-  - [[Financial]]
-    - {{DONE}} reach out to zipcar about missed rental 
-    - {{DONE}} settle paycheck 
-- [[May 6th, 2021]]
-  - [[Work]]
-    - {{DONE}} put together stuff for all hands call … 
+    - {{DONE}} do slide for AI deck 
     - {{DONE}} clear up emails 
   - [[eyecreality]]
-    - {{DONE}} [Free Text-To-Speech for US English language and MP3 Download | ttsMP3.com](https://ttsmp3.com/) 
+    - {{DONE}} Expert ai hackathon … political viewpoint and fake news detector https://expertai-nlapi-042021.devpost.com/?utm_source=devpost&utm_medium=newsletter 
+    - {{DONE}} update recursive automation branding on forward facing stuff 
   - [[Financial]]
-    - {{DONE}} donate to something 
-  - [[Side Project]]
-    - {{DONE}} follow up with Client 2
-- [[May 7th, 2021]]
+    - {{DONE}} follow up with tivo on account 
+    - {{DONE}} Ship tivo 
+- [[May 12th, 2021]]
   - [[Work]]
-    - {{DONE}} finalize Client 3
-    - {{DONE}} build slide ware for Partner 1
+    - {{DONE}} create ai/ml update for sales team 
+    - {{DONE}} clear up emails 
+- [[May 13th, 2021]]
+  - [[Work]]
+    - {{DONE}} MASCO piece 
+    - {{DONE}} clear up emails 
+    - {{DONE}} put together questions for Suite Files 
+  - [[Personal]]
+    - {{DONE}} finish reading for bookclub 
+  - [[roaminbox]]
+    - {{DONE}} [These 10 Flutter Widgets Every Developer Must Know](https://genotechies.medium.com/these-10-flutter-widgets-every-developer-must-know-d0b61529796b) 
+- [[May 14th, 2021]]
+  - [[Work]]
+    - {{DONE}} build out biodura requests for internal team 
     - {{DONE}} timesheets 
     - {{DONE}} clear up emails 
-  - [[eyecreality]]
-    - {{DONE}} call legal zoom 
+  - [[HTV]]
+    - {{DONE}} prep user class and shared preferences 
+    - {{DONE}} create initial OnBoarding Screen 
   - [[Personal]]
     - {{DONE}} check humidofier 
+  - [[Financial]]
+    - {{DONE}} list something on eBay 
   - [[roaminbox]]
-    - {{DONE}} https://link.medium.com/dQc515IMAfb flutter push notifications 
-- [[May 9th, 2021]]
+    - {{DONE}} [Free Book Library Reader](https://ebooks.darknetproxy.com/epubreader.php?data=9704&db=0) 
+- [[May 15th, 2021]]
   - [[eyecreality]]
+    - {{DONE}} Add this to command 
     - {{DONE}} write for 30 minutes 
+  - [[shepperdschariot]]
+    - {{DONE}} taxes 
+- [[May 16th, 2021]]
+  - [[HTV]]
+    - {{DONE}} re-write python address thing in js 
