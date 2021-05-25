@@ -74,6 +74,7 @@ def contentToRoam():
     seasonList = []
     episodeList = []
     export = ""
+    
     for x in masterEntityList:
         seasonList.append(x["season"])
         episodeList.append(x["episode"]+"/"+x["season"])
