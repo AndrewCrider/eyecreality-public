@@ -1,0 +1,59 @@
+
+# play youtube video on device
+
+service: media_player.play_media
+data:
+  media_content_type: cast
+  media_content_id: ' { "app_name": "youtube", "media_id": "G9Ozsgc4G2I" }'
+target:
+  device_id: <<Your Device>>
+
+# play random fireplace video on device
+
+service: media_player.play_media
+data_template:
+  media_content_type: cast
+  media_content_id: ' { "app_name": "youtube",  "media_id": "{{ ["L_LUpnjgPso","-wKiNZ-u-HA","NUKKzdVy0EI","uieyh-CcJ5Y"] | random }}" }'
+target:
+  device_id: <<Your Device>>
+
+# play random ambient video on device
+
+service: media_player.play_media
+data_template:
+  media_content_type: cast
+  media_content_id: ' { "app_name": "youtube",  "media_id": "{{ ["jEnd8JIMii4", "Nep1qytq9JM", "0ANLBX2EgmM"] | random }}" }'
+target:
+  device_id: <<Your Device>>
+
+
+# play random abstract video on device
+
+service: media_player.play_media
+data_template:
+  media_content_type: cast
+  media_content_id: ' { "app_name": "youtube",  "media_id": "{{ ["HmxV8m9DFhs", "dQiYnFQX3Qg", "z1_X86D34Q0"] | random }}" }'
+target:
+  device_id: <<Your Device>>
+
+
+# Sample Hue Sync Box Setup
+
+service: huesyncbox.set_sync_state
+data:
+  sync: true
+  brightness: 0.72
+  mode: video
+  intensity: high
+  input: input1
+  entertainment_area: Entertainment area living room
+target:
+  device_id: <<Your Hue SyncBox>>
+
+
+
+
+
+
+
+
