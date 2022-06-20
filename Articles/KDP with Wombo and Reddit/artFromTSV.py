@@ -14,6 +14,6 @@ def readTabforWombo(filename):
 
 
 if __name__ == "__main__":
-    readTabforWombo('/Users/andrewcrider/Documents/eyecreality/Wombo/wprompts_withsummary.txt')
+    readTabforWombo('mytsv.txt')
 
 

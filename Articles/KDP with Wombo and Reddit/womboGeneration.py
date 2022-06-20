@@ -11,7 +11,7 @@ from selenium.common.exceptions import TimeoutException
 from bs4 import BeautifulSoup
 from PIL import Image
 
-saveLocation = 'myLocation/'
+saveLocation = '~/womboArtwork/'
 
 def wombo(phrase, art_style, type=''):
     print(art_style)
