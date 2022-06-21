@@ -4,12 +4,16 @@ import csv
 import os
 
 locationPath = 'myLocation'
+# register Reddit Application here: https://www.reddit.com/prefs/apps/
+myClientId = 'get client Id here'
+myClientSecret = 'clientSecret'
+redditPassword = 'your password'
 
 #replace this with your information per: https://praw.readthedocs.io/en/stable/getting_started/configuration.html
 redditInfo = praw.Reddit(
-                client_id="SI8pN3DSbt0zor",
-                client_secret="xaxkj7HNh8kwg8e5t4m6KvSrbTI",
-                password="1guiwevlfo00esyy",
+                client_id= myClientId,
+                client_secret= myClientSecret,
+                password= redditPassword,
                 requestor_kwargs={"session": session},  # pass the custom Session instance
                 user_agent="testscript by u/fakebot3",
                 username="fakebot3",
